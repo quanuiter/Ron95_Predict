@@ -10,7 +10,7 @@ Dự án được thực hiện trong khuôn khổ đồ án Phân Tích Dữ Li
 
 - Trương Thanh Quang (MSSV: 23521295)
 - Đào Bảo Phúc (MSSV: 23521192)
-- Ngô Nhật Quân (MSSV: 23521258)
+- Ngô Nhật Quân (MSSV: 23521258) (ngonhatquan27@gmail.com)
 - Huỳnh Trần Anh Thú (MSSV: 23521535)
 
 Giảng viên hướng dẫn: ThS. Dương Phi Long.
@@ -55,14 +55,12 @@ Chúng tôi đánh giá các mô hình dựa trên MAE, RMSE, R², MAPE và Dire
 
 Dự đoán 2 tuần tiếp theo bằng Linear Regression: Tuần +1: 20,182 VND/lít; Tuần +2: 20,112 VND/lít.
 
-Code các mô hình nằm trong thư mục `models/`, ví dụ `linear_regression.py`.
+## Hướng Dẫn Sử Dụng (Liên hệ qua mail để nhận mô hình cũng như dataset)
 
-## Hướng Dẫn Sử Dụng
-
-1. Clone repo: `git clone https://github.com/yourusername/ron95-price-prediction.git`
-2. Cài đặt dependencies: `pip install -r requirements.txt`
+1. Clone repo:
+2. Cài đặt dependencies:
 3. Chạy notebook chính: `jupyter notebook main.ipynb` (load data, train models, evaluate).
-4. Dự đoán: Chạy `python predict.py --model linear --weeks 2` để dự báo.
+4. Dự đoán:
 
 ## Kết Luận
 
